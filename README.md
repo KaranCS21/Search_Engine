@@ -24,4 +24,4 @@ Follow these steps to set up the project on your local system:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/yourusername/Wikipedia-Search-Engine.git
+   git clone https://github.com/KaranCS21/Wikipedia-Search-Engine.git
