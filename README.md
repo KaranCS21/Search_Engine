@@ -26,14 +26,14 @@ Follow these steps to set up the project on your local system:
    ```bash
    git clone https://github.com/KaranCS21/Wikipedia-Search-Engine.git
 
-2. **Navigate to the Project Directory:**:
+2. **Navigate to the Project Directory**:
    ```bash
    cd Wikipedia-Search-Engine
 
-3. **Install Required Libraries:**:
+3. **Install Required Libraries**:
    ```bash
    Install Required Libraries:
    
-4. **Run the Application:**:
+4. **Run the Application**:
    ```bash
    python wikipedia_search.py
